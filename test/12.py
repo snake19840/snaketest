@@ -10,6 +10,4 @@ if __name__ == '__main__':
             d=d/2
             id.append(d)
     print(id)
-    print(11)
-
 
